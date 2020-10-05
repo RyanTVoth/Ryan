@@ -1,0 +1,9 @@
+function myFunction() {
+var = myAnimals = new Array();
+	myAnimals[0] = "dog";
+	myAnimals[1] = "cat";
+	myAnimals[2] = "horse";
+	myAnimals[3] = "meerkat";
+myAnimals =
+	document.getElementById("").value;
+}
